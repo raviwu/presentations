@@ -1,6 +1,6 @@
 ---
-theme: "white"
-customTheme: "chc-light"
+theme: "black"
+customTheme: "lwstudio-dark"
 transition: "zoom"
 highlightTheme: "darkula"
 ---
